@@ -28,7 +28,6 @@
 #include "FuzzyControl_def.h"
 #include "FuzzyControl_cfg.h"
 #define division(num, denum)   (num/denum)
-
 /* private__variables */
 
 typedef struct {
